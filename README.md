@@ -1,2 +1,2 @@
-# relay-releases
+# Crinkle Releases
 
